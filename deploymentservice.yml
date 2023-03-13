@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: betawfeek/nodeapp:latest
+        image: betawfeek/kvg:latest
         ports:
         - containerPort: 3000
         
